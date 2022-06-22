@@ -9,7 +9,7 @@ let resultado = 0;
 let numero;
 do {
     console.clear();
-    console.log("--------------- Calculadora ---------------");
+    console.log("--------------- Calculadora v1.0 ---------------");
     console.log("resultado: %f", resultado);
     console.log("-------------------------------------------");
     console.log("0 - Zerar");
