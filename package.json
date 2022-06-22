@@ -1,0 +1,24 @@
+{
+  "name": "integracao-continua",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --passWithNoTests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniel-souza/integracao-continua.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniel-souza/integracao-continua/issues"
+  },
+  "homepage": "https://github.com/daniel-souza/integracao-continua#readme",
+  "dependencies": {
+    "jest": "^28.1.0",
+    "scanf": "^1.1.2"
+  }
+}
